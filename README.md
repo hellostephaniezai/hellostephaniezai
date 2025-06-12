@@ -3,7 +3,7 @@
 
 ✨ Junior Software Developer | Career Reboot | #100DaysOfCode
 
-After a break to embrace motherhood, I'm back in the tech game—documenting my journey one day at a time. I’m passionate about accessible tech, community building, and solving real-world problems with code.
+After a break to embrace motherhood, I'm back in tech —documenting my journey one day at a time. I’m passionate about accessible tech, community building, and solving real-world problems with code.
 
 
 ![Animated pixel art](https://github.com/user-attachments/assets/47b63ff2-3c58-4b5b-a045-289c4d0961bb)
