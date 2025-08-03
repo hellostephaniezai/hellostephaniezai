@@ -12,7 +12,7 @@ After a break to embrace motherhood, I'm back in tech —documenting my journey 
 ## 📌 About This Profile
 
 This GitHub page is my digital garden 🌱 for:
-- 🌟 Documenting my 100 Days of Code challenge started June 2025
+- 🌟 Documenting my 100 Days of Code challenge re-started Aug 2025
 - 🛠 Sharing mini-projects & learning experiments
 - 🎯 Building a strong coding habit
 
