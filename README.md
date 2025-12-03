@@ -43,11 +43,6 @@ This GitHub page is my digital garden 🌱 for:
 
 ---
 
-## 🎥 Connect with Me
-- 📧 `hellostephaniezai@gmail.com`
-- [TikTok](https://www.tiktok.com/@codewithzai) - `@codewithzai`
-- [Instagram](https://www.instagram.com/codewithzai) - `@codewithzai`
-
 
 
  ✨
