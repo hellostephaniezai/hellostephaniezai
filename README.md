@@ -1,7 +1,7 @@
 
 # Hi, I'm Stephanie 👩🏾‍💻
 
-✨ Junior Software Developer | Career Reboot | #100DaysOfCode
+✨ Apiring Junior Software Developer | Career Reboot | #100DaysOfCode
 
 After a break to embrace motherhood, I'm back in tech —documenting my journey one day at a time. I’m passionate about accessible tech, community building, and solving real-world problems with code.
 
@@ -12,8 +12,8 @@ After a break to embrace motherhood, I'm back in tech —documenting my journey 
 ## 📌 About This Profile
 
 This GitHub page is my digital garden 🌱 for:
-- 🌟 Documenting my 100 Days of Code challenge re-started 2026
-- 🛠 Sharing mini-projects & learning experiments
+- 🌟 Documenting my 100 Days of Code challenge 
+- 🛠 Sharing learning experiments
 - 🎯 Building a strong coding habit
 
 ---
