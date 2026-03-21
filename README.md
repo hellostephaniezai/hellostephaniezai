@@ -3,7 +3,7 @@
 
 ✨ Aspiring Junior Software Developer | Career Reboot | #100DaysOfCode
 
-After a break to embrace motherhood, I'm back in tech —documenting my journey one day at a time. I’m passionate about accessible tech, community building, and solving real-world problems with code.
+After a break to embrace motherhood, I'm back in tech documenting my journey one day at a time. I’m passionate about accessible tech, community building, and solving real-world problems with code.
 
 
 ![Animated pixel art](https://github.com/user-attachments/assets/47b63ff2-3c58-4b5b-a045-289c4d0961bb)
@@ -13,8 +13,8 @@ After a break to embrace motherhood, I'm back in tech —documenting my journey 
 
 This GitHub page is my digital garden 🌱 for:
 - 🌟 Documenting my 100 Days of Code challenge 
-- 🛠 Sharing learning experiments
 - 🎯 Building a strong coding habit
+- 🌱 Learning to give myself grace while building new skills and making mistakes
 
 ---
 
@@ -40,9 +40,3 @@ This GitHub page is my digital garden 🌱 for:
 ### 📚 Learning Platforms  
 ![School of Code](https://img.shields.io/badge/-School%20of%20Code-4F46E5?style=flat) ![Codecademy](https://img.shields.io/badge/-Codecademy-1F4056?logo=codecademy&logoColor=white&style=flat)
 
-
----
-
-
-
- ✨
